@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "myria-food-api", "myria-food-api\myria-food-api.csproj", "{6CCC9E0F-9BA5-4658-940C-0588001F20BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CCC9E0F-9BA5-4658-940C-0588001F20BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CCC9E0F-9BA5-4658-940C-0588001F20BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CCC9E0F-9BA5-4658-940C-0588001F20BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CCC9E0F-9BA5-4658-940C-0588001F20BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C636E23-0913-4A0A-9C19-95C15B560179}
+	EndGlobalSection
+EndGlobal
